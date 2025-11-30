@@ -1,2 +1,2 @@
 # Muzzle-area-dectection-AI
-AI that dectect Muzzle area(cattle nose area) .Ai taken a image from the user than create a bounding box on   muzzle area 
+An AI system that detects the muzzle (cattle nose area). It takes an input image from the user and generates a bounding box around the muzzle region.
